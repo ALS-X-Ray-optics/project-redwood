@@ -2,4 +2,4 @@
 
 This repository shares a few calculation notebooks useful for the design a synchrotron beamline.
 
-![Project Redwood](assets/project_redwood.png)
+![Project Redwood](/assets/project_redwood.png)
