@@ -8,7 +8,7 @@ __pycache__/
 *$py.class
 
 #
-*.mat
+
 *.png
 !assets/*.png
 !data/*.h5
