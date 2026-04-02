@@ -10,6 +10,8 @@ __pycache__/
 #
 
 *.png
+
+*.0*
 !assets/*.png
 !data/*.h5
 !data/*.hdf
